@@ -3,21 +3,29 @@ Explica los siguientes conceptos con tus propias palabras.
 
 
 1 - ¿Que es Math?
+Math es un objeto que tiene métodos matemáticos para solucionar/buscar resultados.
 
 2 - Explica 5 Metodos Math.
-
+* Math.abs():Devuelve el valor absoluto de un número.
+* Math.ceil(): Retorna el entero más pequeño mayor o igual que un número
+* Math.max(): Te devuelve el valor más grande.
+* Math.min(): Retorna el valor más pequeño.
+* Math.sqrt(): Devuelve la raíz cuadrada de un número.
 3 - ¿Que es un String?
+ Es el tipo de dato que se asigna a una cadena de caracteres.
 
 4 - ¿Que es un booleano?
+ Es un tipo de dato lógico, sus valores solo pueden ser true y false.
 
 5 - ¿Que es una funcion?
-
+Es un procedimiento, en el que se realizan tareas o cálculos. Siempre retorna algo.
 6 - Explica la diferencia entre Undefined y Null
-
-7 - ¿Cuales son los operadores de Comparacion?
-
+ El Undefined quiere decir que el valor de esa variable aún no está definida y Null quiere decir que el valor de esa variable está vacia.
+7 - ¿Cuales son los operadores de Comparacion? 
+ Son: menor(<),menor o igual que(<=),igual(==),mayor(>),mayor o igual que(>=) y distinto(!=)
 8 - ¿Cuales son los operadores Logicos?
-
+ Son: &&, || y !
 9 - ¿A que hace referencia la palabra Clave o Key?
-
+ A un valor o caracter que es único y que se usa para identificar un elemento/objeto.
 10 - ¿Para que sirve el Bucle for..in ?
+    Para iterar sobre un objeto.
